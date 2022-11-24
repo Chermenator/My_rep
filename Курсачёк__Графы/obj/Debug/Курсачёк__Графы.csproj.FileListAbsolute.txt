@@ -1,0 +1,11 @@
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\bin\Debug\Курсачёк__Графы.exe.config
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\bin\Debug\Курсачёк__Графы.exe
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\bin\Debug\Курсачёк__Графы.pdb
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.csproj.AssemblyReference.cache
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.csproj.SuggestedBindingRedirects.cache
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.Form1.resources
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.Properties.Resources.resources
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.csproj.GenerateResource.cache
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.csproj.CoreCompileInputs.cache
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.exe
+C:\Users\appol\source\repos\Курсачёк__Графы\Курсачёк__Графы\obj\Debug\Курсачёк__Графы.pdb
